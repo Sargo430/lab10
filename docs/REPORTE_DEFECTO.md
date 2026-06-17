@@ -145,5 +145,5 @@ Ninguno de los tests existentes en `test_carrito.py` pasa un `total` negativo a
 |---------------|------------------------------|
 | Estado actual | **Cerrado**                  |
 | Asignado a    | Sebastian (autor del lab)    |
-| Commit SHA    | `fix/lab10-001-total-negativo` |
-| Fecha cierre  | 2025-06-16                   |
+| Commit SHA    | `d2d6274fb9e800417983dd9e10120cb17563f747` |
+| Fecha cierre  | 2026-06-16                   |
